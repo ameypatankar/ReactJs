@@ -1,0 +1,36 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "React JS",
+  "scripts": {
+    "test": "jest",
+    "build": "parcel build index.html",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ameypatankar/ReactJs.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "ameypatankar"
+  ],
+  "author": "Amey Patankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ameypatankar/ReactJs/issues"
+  },
+  "homepage": "https://github.com/ameypatankar/ReactJs#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist": [
+    "last 3 versions"
+  ]
+}
