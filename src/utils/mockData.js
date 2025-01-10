@@ -1,35 +1,35 @@
 const resDataList = [
     {
-        data: {
+        info: {
             id: 1,
             name: 'KFC',
             cuisines: ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
             avgRating: 4.2,
-            costForTwo: 40000,
+            costForTwo: "₹900 for two",
             deliveryTime: 36,
-            cloudinaryID: 'qkyo2ugj77q1bbdzauq9'
+            cloudinaryImageId: '159dfcae1bfc9e20c5886b1ac1f51bc3'
         }
     },
     {
-        data: {
+        info: {
             id: 2,
             name: 'Sante Spa Cuisine',
             cuisines: ["Asian", "Chinese", "Snacks", "Fast Food"],
             avgRating: 3.7,
-            costForTwo: 10000,
+            costForTwo: "₹300 for two",
             deliveryTime: 30,
-            cloudinaryID: '5c7e4e8edfef1bbb674980b462a270c8'
+            cloudinaryImageId: '159dfcae1bfc9e20c5886b1ac1f51bc3'
         }
     },
     {
-        data: {
+        info: {
             id: 3,
             name: 'Hangout Cakes & More',
             cuisines: ["Cakes", "Sweet", "Pastry"],
             avgRating: 4.9,
-            costForTwo: 5000,
+            costForTwo: "₹500 for two",
             deliveryTime: 15,
-            cloudinaryID: '515ff474640edf1efe636456b6b02c8e'
+            cloudinaryImageId: '159dfcae1bfc9e20c5886b1ac1f51bc3'
         }
     }
 ];
